@@ -22,3 +22,9 @@ This repo contains the HTML assignments from Elzero Web School's channel. The go
 
 ## References
 - Link for the Assignments => https://elzero.org/category/assignments/html-assignments
+
+If you have any suggestions or improvements, I’d love to hear from you! ✌️
+
+Email: abdulrahmangalhoom@gmail.com 😃
+
+GitHub: Galhoom22 😄
